@@ -1,11 +1,14 @@
 SALES ANALYSIS
 
 🧭 Overview
-This dataset contains 1,020 raws of sales transactions across multiple regions (North, South, East, West) and product categories (Electronics, Furniture). It includes details such as Order ID, Order Date, Customer Name, Region, Product, Category, Quantity, Unit Price, Sales, Cost, and Profit.
+
+   This dataset contains 1,020 raws of sales transactions across multiple regions (North, South, East, West) and product categories (Electronics, Furniture). It includes details such as Order ID, Order Date, Customer Name, Region, Product, Category, Quantity, Unit Price, Sales, Cost, and Profit.
 
 The dataset is designed for business intelligence, analytics, and data cleaning practice, with intentional issues such as missing values, inconsistent entries, and anomalies.
 
 🔑 Key Insights
+
+
 Regional Coverage: Sales span across all four regions, with notable variations in profitability.
 
 Product Categories: Electronics (Smartphones, Laptops, Monitors, Headphones) and Furniture (Cabinets, Bookshelves, Office Desks, Desk Chairs).
@@ -23,6 +26,8 @@ Incorrect or inconsistent category labels (e.g., “Furniture” without product
 Outliers in unit prices and profits.
 
 ⚙️ Potential Uses
+
+
 Data Cleaning & Preprocessing: Handle missing values, fix inconsistent categories, and correct anomalies.
 Dax :Calculate measueres.
 Exploratory Data Analysis (EDA): Identify sales trends, regional performance, and product profitability.
@@ -32,6 +37,8 @@ Visualization Projects: Create dashboards in Power BI.
 
 
 🚀 Recommendations
+
+
 1. Improve Regional Performance
 
 Use the West region's higher profit margin as a reference when reviewing pricing, product mix, and cost structure in other regions.
