@@ -1,5 +1,5 @@
+SALES ANALYSIS
 
-📊 Sales Data Analysis
 🧭 Overview
 This dataset contains 1,020 raws of sales transactions across multiple regions (North, South, East, West) and product categories (Electronics, Furniture). It includes details such as Order ID, Order Date, Customer Name, Region, Product, Category, Quantity, Unit Price, Sales, Cost, and Profit.
 
