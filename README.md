@@ -61,12 +61,12 @@ Cost
 Profit
 6. Monitor YTD Performance
 
-
-📁 Repository Structure
-Code
 📂 Sales-Data-Analysis
  ┣ 📊 data/
  ┣ 📈 notebooks/
  ┣ 🧮 scripts/
  ┣ 📘 documentation/
  ┗ README.md
+
+📁 Repository Structure
+Code
