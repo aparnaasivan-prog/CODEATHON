@@ -61,7 +61,7 @@ Cost
 Profit
 6. Monitor YTD Performance
 
-Use your YTD Sales and YTD Profit page to track cumulative performance by month and identify periods where sales increase but profit does not increase proportionally.
+
 📁 Repository Structure
 Code
 📂 Sales-Data-Analysis
